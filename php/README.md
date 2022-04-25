@@ -1,0 +1,1 @@
+[Malicious Function](maliciousfunc.md)
